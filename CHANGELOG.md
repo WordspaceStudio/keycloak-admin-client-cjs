@@ -2,8 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
-## [22.0.1](https://github.com//s3pweb/keycloak-admin-client-cjs/compare/v21.0.1...v22.0.1) (2023-08-29)
+## [24.0.5](https://github.com//s3pweb/keycloak-admin-client-cjs/compare/v22.0.1...v24.0.5) (2024-06-05)
 
+### Other
+
+* update keycloak from 22.0.1 to 24.0.5
+
+## [22.0.1](https://github.com//s3pweb/keycloak-admin-client-cjs/compare/v21.0.1...v22.0.1) (2023-08-29)
 
 ### Bug Fixes
 
